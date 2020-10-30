@@ -1,4 +1,4 @@
-### Welcome to Yvonne's space :)
+### Welcome to Yvonne's space
 
 How's it going? Hope you're staying healthy and sane in all this craziness :)
 
