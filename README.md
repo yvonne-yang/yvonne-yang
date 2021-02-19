@@ -10,8 +10,6 @@ Uploading more cool stuff here, a Fourier pencil, learning web dev and NLP, a ha
 **Come chat with me**  
 email: yvonne.y.yang@outlook.com ◆ linkedin: [https://linkedin/in/yvonne-y-yang](yvonne-y-yang)
 
-I'm also looking for a SWE internship/ML research position for summer 2021!
-
 <!--
 **yvonne-yang/yvonne-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
