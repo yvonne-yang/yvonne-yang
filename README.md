@@ -2,7 +2,7 @@
 
 How's it going? Hope you're staying healthy and sane in all this craziness :)
 
-I study computer engineering at the University of ~Youtube~ Toronto (in SKULE lanugage: T1ECE2T3). Currently, I'm obsessed with Artificial Intelligence, Machine Learning and cognitive science. (A mind learning about itself! Isn't that so cool?) I love learning and I want to know a bit about everything. Come talk to me about art, mathematics, literature, psychology, philosophy, and music. Especially music. I'll make everyone fall in love with Classical music!
+I study computer engineering at the University of ~Youtube~ Toronto. Currently, I'm obsessed with Artificial Intelligence, Machine Learning and cognitive science. (A mind learning about itself! Isn't that so cool?) I love learning and I want to know a bit about everything. Come talk to me about art, mathematics, literature, psychology, philosophy, and music. Especially music. I'll make everyone fall in love with Classical music!
 
 **What I'm working on**  
 Summer research! Uploading more cool stuff here, a Fourier pencil, learning web dev and NLP, building a cat tree...  
