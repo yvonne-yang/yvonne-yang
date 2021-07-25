@@ -1,14 +1,14 @@
 ### Welcome to Yvonne's space
 
-How's it going? Hope you're staying healthy and sane in all this craziness :)
+Hello friend, how's it going? 
 
-I study computer engineering at the University of ~Youtube~ Toronto. Currently, I'm obsessed with Artificial Intelligence, Machine Learning and cognitive science. (A mind learning about itself! Isn't that so cool?) I love learning and I want to know a bit about everything. Come talk to me about art, mathematics, literature, psychology, philosophy, and music. Especially music. I'll make everyone fall in love with Classical music!
+I study computer engineering at the University of Toronto. Learning about learning fascinates me. I love all the different fields under cognitive science. As of now, I have decided to dive deep into the algorithms and theoretical aspects of AI/ML. My current earworm is [Haley Heynderickx](https://youtu.be/Mub2i2BoHpM).
 
 **What I'm working on**  
-Summer research! Uploading more cool stuff here, a Fourier pencil, learning web dev and NLP, building a cat tree...  
+Summer research, a reading group on Russell and Norvig's AI, a weather predictor, a sudoku solver...
 
-**Come chat with me**  
-email: yvonne.y.yang@outlook.com ◆ linkedin: [https://linkedin/in/yvonne-y-yang](yvonne-y-yang)
+**Chat with me**  
+email: yvonne.y.yang@outlook.com ◆ linkedin: [yvonne-y-yang](https://linkedin/in/yvonne-y-yang)
 
 <!--
 **yvonne-yang/yvonne-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
