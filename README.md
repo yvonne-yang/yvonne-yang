@@ -2,10 +2,10 @@
 
 Hello friend, how's it going? 
 
-I study computer engineering at the University of Toronto. Learning about learning fascinates me. I love all the different fields under cognitive science. As of now, I have decided to dive deep into the algorithms and theoretical aspects of AI/ML. My current earworm is [Haley Heynderickx](https://www.youtube.com/watch?v=w39qx5X_Owg).
+I study computer engineering at the University of Toronto. Learning about learning fascinates me. I love all the different fields under cognitive science. After dabbling in AI/ML, I am now considering a journey into neuroscience... My current earworm is [Haley Heynderickx](https://www.youtube.com/watch?v=w39qx5X_Owg).
 
 **What I'm working on**  
-A paper reading group, autonomous vehicle planning team (aUToronto), some course-related ML projects, reading Russell and Norvig's AI...
+A Capstone on exoskeleton prosthesis control, a topics course in neuromodulation, learning about compilers, mobile development...
 
 **Chat with me**  
 email: yvonne.y.yang@outlook.com ◆ linkedin: [yvonne-y-yang](https://linkedin/in/yvonne-y-yang)
